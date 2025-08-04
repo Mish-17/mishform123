@@ -1,0 +1,32 @@
+
+div>h1{
+
+    color: green;
+    text-align: center;
+}
+
+div.form-layout{
+    border: 5px solid green;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+td>input{
+    border-bottom: 3px solid green;
+    padding: 10px 10px 10px 10px; 
+    
+}
+table{
+
+    margin: 10px 10px 10px 10px;
+
+}
+button{
+    color: azure;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+
